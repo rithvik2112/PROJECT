@@ -1,0 +1,8 @@
+
+@font-face {
+    font-family: 'RedHatDisplay-Semibold';
+    src: url('fonts/RedHatDisplay-SemiBold.ttf') format('truetype');
+}
+body {
+    font-family: 'CustomFont', sans-serif;
+}
